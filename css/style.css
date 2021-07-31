@@ -12,6 +12,10 @@
     height: auto;
 }
 
+.img {
+    padding-left: 20px;
+}
+
 .img__logo {
     width: 200px;
 }
