@@ -10,6 +10,7 @@
     background-color: #EDFAFF;
     background-size: cover;
     height: auto;
+    padding: 98px 0;
 }
 
 .img {
@@ -203,6 +204,10 @@ footer {
 
     .img__banner {
         margin-top: 20px;
+    }
+
+    .banner {
+        padding: 0;
     }
 
     .banner__text {
